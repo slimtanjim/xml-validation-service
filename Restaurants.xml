@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Restaurants>
+	<Restaurant Delivery="Y">
+		<Name>SundevilEatery</Name>
+		<Contact>
+			<Phone>4809648959</Phone>
+			<Email>sundevil@eatery.com</Email>
+		</Contact>
+		<Website facebook = "Sundevil Eatery Page">http://sundevileatery.com</Website>
+	</Restaurant>
+	<Restaurant Delivery="Y">
+		<Name>SPQR</Name>
+		<Contact>
+			<Phone>415-771-7779</Phone>
+			<Email>info@spqrsf.com</Email>
+		</Contact>
+		<Website facebook ="https://www.facebook.com/SPQR-364316856504/">https://www.spqrsf.com/</Website>
+	</Restaurant>
+	<Restaurant Delivery="Y">
+		<Name>McDonald's</Name>
+		<Contact>
+			<Phone>1-800-244-6227</Phone>
+			<Email>contactus@us.mcd.com</Email>
+		</Contact>
+		<Website facebook ="https://www.facebook.com/McDonaldsUS">https://www.mcdonalds.com/us/en-us.html</Website>
+	</Restaurant>
+	<Restaurant Delivery="Y">
+		<Name>Subway</Name>
+		<Contact>
+			<Phone>1-800-888-4848</Phone>
+			<Email>https://www.subway.com/en-us/contactus/contactusform</Email>
+		</Contact>
+		<Website facebook ="https://www.facebook.com/subway">https://www.subway.com/en-us</Website>
+	</Restaurant>
+	<Restaurant Delivery="Y">
+		<Name>Papa John's</Name>
+		<Contact>
+			<Phone>1-877-547-7272</Phone>
+			<Email>https://www.papajohns.com/contact-us/</Email>
+		</Contact>
+		<Website facebook ="https://www.facebook.com/papajohns">https://www.papajohns.com/</Website>
+	</Restaurant>
+	<Restaurant Delivery="N">
+		<Name>Chipotle</Name>
+		<Contact>
+			<Phone>1-303-595-4000</Phone>
+			<Email>https://www.chipotle.com/contact-us</Email>
+		</Contact>
+		<Website>https://www.chipotle.com/</Website>
+	</Restaurant>
+	<Restaurant Delivery="Y">
+		<Name>Panda Express</Name>
+		<Contact>
+			<Phone>1-800-877-8988</Phone>
+			<Email>https://www.pandaexpress.com/contactus</Email>
+		</Contact>
+		<Website facebook ="https://www.facebook.com/PandaExpress">https://www.pandaexpress.com/</Website>
+	</Restaurant>
+</Restaurants>
